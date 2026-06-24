@@ -1,5 +1,5 @@
 config = {
-    'epoch': 3000,
+    'epoch': 300,
     'batch_size': 256,
     'latent': 8,
     'log': False,
