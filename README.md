@@ -5,7 +5,7 @@ FlowAE is a novel generative deep learning framework that integrates Autoencoder
 ## Framework Overview
 
 <p align="center">
-  <img src="images/framework.png" alt="FlowAE Framework" width="900">
+  <img src="images/model_architecture.png" alt="FlowAE Framework" width="900">
 </p>
 
 **Figure 1.** Overall architecture of FlowAE. The framework combines an Autoencoder for nonlinear representation learning with a Normalizing Flow prior to enhance latent space expressiveness, resulting in more discriminative embeddings for scRNA-seq clustering.
