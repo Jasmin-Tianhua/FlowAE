@@ -40,9 +40,10 @@ This project was developed and tested with the following environment:
 FlowAE/
 ├── images/
 │   └── framework.png
-├── main.py
-├── prior_pytorch.py
-└── vasc_pytorch.py
+└── code/
+    ├── main.py
+    ├── prior_pytorch.py
+    └── vasc_pytorch.py
 ```
 
 
